@@ -1,1 +1,1 @@
-Use this local version if remote fails with error like `curl: (56) Recv failure: Operation timed out`
+Use this version if Reveal server `https://download.revealapp.com/RevealServer-58.zip` fails with error like `curl: (56) Recv failure: Operation timed out`
